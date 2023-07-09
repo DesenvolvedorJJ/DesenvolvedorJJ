@@ -36,4 +36,4 @@
 
 ##
 
-![Snake animation](https://github.com/DesenvolvedorJJ)
+![snake gif](https://github.com/DesenvolvedorJJ/DesenvolvedorJJ/blob/output/github-contribution-grid-snake.svg)
